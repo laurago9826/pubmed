@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">34393683</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1557-1874</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+              <Day>09</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of mental health and addiction</Title>
+          <ISOAbbreviation>Int J Ment Health Addict</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Validation and Psychometric Evaluation of the Italian Version of the Bergen-Yale Sex Addiction Scale.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-27</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11469-021-00597-w</ELocationID>
+        <Abstract>
+          <AbstractText>Excessive problematic sexual behavior in the form of compulsive sexual behavior disorder (CSBD), hypersexuality (HS), and sex addiction has gained increasing credibility in recent years and has led to the development of various psychometric instruments to assess such behavior. However, there is still considerable controversy over the operational definition of such concepts and whether they can be used interchangeably to describe the behavior. One recently developed tool is the Bergen-Yale Sex Addiction Scale (BYSAS) based on the "components model of addiction." The present study validated the Italian version of the BYSAS. The BYSAS was administered to a large Italian-speaking sample of Italian adults [<i>N</i> = 1230, aged 18 to 67 years] along with psychometric instruments assessing the "Big Five" personality traits, self-esteem, depression, and two other measures of addictive sexual behavior (i.e., PATHOS and Shorter PROMIS Questionnaire-Sex Subscale). Confirmatory factorial analysis supported a one-factor solution. Furthermore, the scale had good internal consistency (Cronbach's <i>α</i> = 0.787). The BYSAS was positively associated with extroversion, openness to experience, depression, and problematic sexual behavior, and negatively associated with self-esteem, conscientiousness, emotional stability, agreeableness, and age. Based on the findings, the BYSAS is a brief, psychometrically reliable and valid measure for assessing sex addiction among Italian adults.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Soraci</LastName>
+            <ForeName>Paolo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associazione Psicoterapia Cognitivo Comportamentale Di Gruppo, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Melchiori</LastName>
+            <ForeName>Francesco M</ForeName>
+            <Initials>FM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Psychology, University Niccolò Cusano, Rome, Italy.</Affiliation>
+              <Identifier Source="GRID">grid.460091.a</Identifier>
+              <Identifier Source="ISNI">0000 0004 4681 734X</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Del Fante</LastName>
+            <ForeName>Elena</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, Università degli Studi di Torino-UNITO, Turin, Italy.</Affiliation>
+              <Identifier Source="GRID">grid.7605.4</Identifier>
+              <Identifier Source="ISNI">0000 0001 2336 6580</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Melchiori</LastName>
+            <ForeName>Roberto</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Educational Sciences, University Niccolò Cusano, Rome, Italy.</Affiliation>
+              <Identifier Source="GRID">grid.460091.a</Identifier>
+              <Identifier Source="ISNI">0000 0004 4681 734X</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guaitoli</LastName>
+            <ForeName>Eleonora</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Perrino Hospital Brindisi, Brindisi, Italy.</Affiliation>
+              <Identifier Source="GRID">grid.417511.7</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lagattolla</LastName>
+            <ForeName>Fulvia</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Servizio Di Psiconcologia, IRCCS Istituto Tumori "Giovanni Paolo II" Di Bari, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parente</LastName>
+            <ForeName>Grazia</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associazione Matrice Orientamento E Formazione Onlus, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bonanno</LastName>
+            <ForeName>Enrico</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Environmental Research and Innovation, Luxembourg Institute of Science and Technology, Belvaux, Luxembourg.</Affiliation>
+              <Identifier Source="GRID">grid.423669.c</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Norbiato</LastName>
+            <ForeName>Laura</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associazione La Valigia Rossa, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cimaglia</LastName>
+            <ForeName>Roberta</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Istituto Romano Di Psicoterapia Psicodinamica Integrata, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Campedelli</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, Niccolò Cusano University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abbiati</LastName>
+            <ForeName>Francesco Antonio</ForeName>
+            <Initials>FA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, Università degli Studi di Torino-UNITO, Turin, Italy.</Affiliation>
+              <Identifier Source="GRID">grid.7605.4</Identifier>
+              <Identifier Source="ISNI">0000 0001 2336 6580</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ferrari</LastName>
+            <ForeName>Ambra</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Human Science for Education, Università Degli Studi Di Milano, Bicocca, Milan Italy.</Affiliation>
+              <Identifier Source="GRID">grid.4708.b</Identifier>
+              <Identifier Source="ISNI">0000 0004 1757 2822</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Griffiths</LastName>
+            <ForeName>Mark D</ForeName>
+            <Initials>MD</Initials>
+            <Identifier Source="ORCID">0000-0001-8880-6524</Identifier>
+            <AffiliationInfo>
+              <Affiliation>International Gaming Unit, Psychology Department, Nottingham Trent University, 50 Shakespeare Street, Nottingham, NG1 4FQ UK.</Affiliation>
+              <Identifier Source="GRID">grid.12361.37</Identifier>
+              <Identifier Source="ISNI">0000 0001 0727 0669</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Ment Health Addict</MedlineTA>
+        <NlmUniqueID>101256588</NlmUniqueID>
+        <ISSNLinking>1557-1874</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bergen–Yale Sex Addiction Scale</Keyword>
+        <Keyword MajorTopicYN="N">Compulsive sexual behavior</Keyword>
+        <Keyword MajorTopicYN="N">Hypersexuality</Keyword>
+        <Keyword MajorTopicYN="N">Personality</Keyword>
+        <Keyword MajorTopicYN="N">Psychometrics</Keyword>
+        <Keyword MajorTopicYN="N">Sex addiction</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of InterestThe authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34393683</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11469-021-00597-w</ArticleId>
+        <ArticleId IdType="pii">597</ArticleId>
+        <ArticleId IdType="pmc">PMC8351585</ArticleId>
+      </ArticleIdList>
+      <?pmcsd ?>
+      <ReferenceList>
+        <Reference>
+          <Citation>Educ Psychol Meas. 2019 Apr;79(2):249-271</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30911192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Educ Psychol Meas. 2018 Oct;78(5):762-780</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32655169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Res. 2016 Jul-Aug;53(6):701-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26422118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Pharm Des. 2014;20(25):4026-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24001297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2014 Dec;3(4):231-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25592308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Biol Sci. 2014 Dec 7;281(1796):20141726</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25320174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Sci Law. 2011 Jan-Feb;29(1):23-39</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21191908</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2017 Dec 1;6(4):445-456</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29034717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Psychol Bull. 1948 Nov;45(6):507-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18893224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Psychoneuroendocrinology. 2016 Jan;63:247-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26519779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2013 Jul;10(7):1773-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23815239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2016 Jun;5(2):169-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27348557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Psychiatry. 2017 Sep;4(9):663-664</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28853408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Addiction. 2016 Dec;111(12):2097-2106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26893127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sleep Res. 2011 Dec;20(4):569-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21324013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sleep Med Rev. 2019 Oct;47:51-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31336284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Youth Adolesc. 2016 Jan;45(1):73-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26208829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Addict Behav. 2017 Jan;64:238-246</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26646983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2016 Jan;45(1):219-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25559323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Addict Behav. 2014 May;39(5):861-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24583276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2018 Sep 1;7(3):565-573</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30203696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spine (Phila Pa 1976). 2000 Dec 15;25(24):3186-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11124735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2007 Jan;50(1):90-102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17177094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World Psychiatry. 2018 Feb;17(1):109-110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29352554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Marital Fam Ther. 2008 Oct;34(4):431-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19017183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CNS Spectr. 2006 Dec;11(12):966-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17146410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2013 Jun;2(2):100-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26165929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2010 Apr;39(2):377-400</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19937105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Pharm Des. 2014;20(25):4012-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24001295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cyberpsychol Behav Soc Netw. 2011 Nov;14(11):657-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21711129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2015 Jun;12(6):1356-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25808900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Epidemiol. 2010 Nov;63(11):1179-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20685078</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2019 Apr;16(4):489-499</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30852107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Res Methods. 2006 Feb;38(1):88-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16817517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Marital Ther. 2010;36(3):227-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20432124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2014 Aug;11(8):1974-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24909396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pers Assess. 1995 Dec;65(3):586-601</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8609589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Addict Med. 2012 Mar;6(1):29-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21817915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2017 Apr;46(3):721-733</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26502283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sex Addict Compulsivity. 2019;26(1-2):24-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31772491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Marital Ther. 2015;41(5):481-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24918657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eval Health Prof. 2011 Mar;34(1):3-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20876085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Marital Ther. 2014;40(5):444-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24134331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2014 Oct;43(7):1259-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24951045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Psychiatr Clin North Am. 2012 Jun;35(2):279-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22640756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Addict Behav. 2003 Mar;28(2):225-48</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12573676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nerv Ment Dis. 2011 Apr;199(4):263-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21451351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Psychol. 2018 Mar 08;9:144</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29568277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2018 Dec 1;7(4):1015-1021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30378460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2018 Nov;47(8):2265-2276</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29926261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Sex Behav. 2016 May;45(4):983-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25466233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Res. 2019 Feb;56(2):166-179</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29913087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Behav Addict. 2015 Jun;4(2):37-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26014671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">34393684</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1557-1874</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+              <Day>10</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of mental health and addiction</Title>
+          <ISOAbbreviation>Int J Ment Health Addict</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mental Health Status, Coping Strategies During Covid-19 Pandemic Among Undergraduate Students of Healthcare Profession.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-13</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11469-021-00611-1</ELocationID>
+        <Abstract>
+          <AbstractText>The present study aimed to assess the prevalence of psychological distress, associated lifestyle behaviors, and associated coping strategies among the students of healthcare profession. A total of 588 medical, dental, and nursing students studying in institutes of health sciences, KIIT University, Bhubaneswar, India participated in this cross-sectional online survey during September-October, 2020. A semi-structured questionnaire, DASS-21questionnaire, and Brief COPE were used to collect relevant information. The proportion of students experiencing symptoms of depression, anxiety, and stress was 26.2%, 27.7%, and 9.7%, respectively. Body mass index, presence of comorbidity, and soft drink consumption were significantly associated with psychological distress. Students experiencing psychological distress were applying emotion-focused coping behaviors (venting, acceptance, self-blame, substance use, religion) and avoidant coping behaviors (self-distraction, behavioral disengagement, denial). The prevalence of psychological distress among the students of health profession studying in KIIT University of Bhubaneswar during the period of Covid-19 pandemic is low and it can be further lowered by designing appropriate interventions incorporating healthy lifestyle behaviors and suitable coping strategies thereby ensuring sound mental health of these students.</AbstractText>
+          <CopyrightInformation>© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mishra</LastName>
+            <ForeName>Jayanti</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kalinga Institute of Medical Sciences, KIIT University, Bhubaneswar, Odisha 751024 India.</Affiliation>
+              <Identifier Source="GRID">grid.412122.6</Identifier>
+              <Identifier Source="ISNI">0000 0004 1808 2016</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Samanta</LastName>
+            <ForeName>Priyadarsini</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kalinga Institute of Medical Sciences, KIIT University, Bhubaneswar, Odisha 751024 India.</Affiliation>
+              <Identifier Source="GRID">grid.412122.6</Identifier>
+              <Identifier Source="ISNI">0000 0004 1808 2016</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panigrahi</LastName>
+            <ForeName>Ansuman</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>ICMR-National Institute for Implementation Research on Non-Communicable Diseases, Jodhpur, Rajasthan 342005 India.</Affiliation>
+              <Identifier Source="GRID">grid.511811.d</Identifier>
+              <Identifier Source="ISNI">0000 0004 0504 7078</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dash</LastName>
+            <ForeName>Kulumina</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Public Health, KIIT University, Bhubaneswar, Odisha 751024 India.</Affiliation>
+              <Identifier Source="GRID">grid.412122.6</Identifier>
+              <Identifier Source="ISNI">0000 0004 1808 2016</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Behera</LastName>
+            <ForeName>Manas Ranjan</ForeName>
+            <Initials>MR</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Public Health, KIIT University, Bhubaneswar, Odisha 751024 India.</Affiliation>
+              <Identifier Source="GRID">grid.412122.6</Identifier>
+              <Identifier Source="ISNI">0000 0004 1808 2016</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Das</LastName>
+            <ForeName>Ramachandra</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kalinga Institute of Medical Sciences, KIIT University, Bhubaneswar, Odisha 751024 India.</Affiliation>
+              <Identifier Source="GRID">grid.412122.6</Identifier>
+              <Identifier Source="ISNI">0000 0004 1808 2016</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>10</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Ment Health Addict</MedlineTA>
+        <NlmUniqueID>101256588</NlmUniqueID>
+        <ISSNLinking>1557-1874</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Avoidant coping</Keyword>
+        <Keyword MajorTopicYN="N">Covid-19</Keyword>
+        <Keyword MajorTopicYN="N">DASS-21</Keyword>
+        <Keyword MajorTopicYN="N">Emotion-focused coping</Keyword>
+        <Keyword MajorTopicYN="N">Psychological distress</Keyword>
+        <Keyword MajorTopicYN="N">Soft drink</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interestThe authors have no relevant financial or non-financial interests to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34393684</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11469-021-00611-1</ArticleId>
+        <ArticleId IdType="pii">611</ArticleId>
+        <ArticleId IdType="pmc">PMC8354097</ArticleId>
+      </ArticleIdList>
+      <?pmcsd ?>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int J Behav Med. 1997;4(1):92-100</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16250744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Educ. 2016 Jan;50(1):132-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26695473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Epidemiol Psychiatr Sci. 2017 Jun;26(3):276-286</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26804972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Psychiatry. 2020 Apr;7(4):300-302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32085840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Adolesc Gynecol. 2013 Dec;26(6):350-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24075089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Behav. 2020 Aug;10(8):e01730</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32578943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dent Educ. 2021 Apr;85(4):494-503</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33128397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Open Access Rheumatol. 2019 Nov 01;11:237-252</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31807093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Hypertens. 2018 Aug 1;2018:8560835</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30155287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Orthopsychiatry. 2013 Oct;83(4):505-519</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24164522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Expert Rev Respir Med. 2012 Aug;6(4):397-406</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22971065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Indian J Psychiatry. 2020 Jul-Aug;62(4):379-383</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33165390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Soc Psychiatry. 2020 Jun;66(4):317-320</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32233719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saudi Med J. 2017 Jun;38(6):621-628</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28578442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Adolesc Med Health. 2007 Jan-Mar;19(1):27-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17458321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Indian J Psychiatry. 2015 Oct-Dec;57(4):367-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26813517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Australas Psychiatry. 2020 Dec;28(6):649-652</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32772729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Med Educ. 2019 Aug 20;19(1):312</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31429744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Psychosom Obstet Gynaecol. 2019 Sep;40(3):185-194</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29745745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glob Public Health. 2017 Jul;12(7):811-829</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26609735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Adolesc. 2011 Oct;34(5):1077-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21074841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AIDS Behav. 2015 Feb;19(2):341-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25096895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutr J. 2016 Oct 13;15(1):87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27737671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Public Health Nutr. 2019 Oct;22(14):2553-2560</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31097051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Psychiatry. 2020 Mar;65(3):206-208</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31684757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ Open. 2019 Feb 13;9(2):e024177</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30765401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pak J Med Sci. 2020 Sep-Oct;36(6):1355-1359</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32968408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Stud Alcohol Drugs. 2008 Mar;69(2):275-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18299769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Environ Res Public Health. 2020 Mar 06;17(5):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32155789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Jul 13;10(7):e0131708</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26167892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prev Med Rep. 2018 Oct 18;12:271-283</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30406005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Soc Clin Psychol. 2008;27(8):809-842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25419043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Fam Psychol. 2009 Oct;23(5):762-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19803612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Netw Open. 2020 Mar 2;3(3):e203976</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32202646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Assoc Med Bras (1992). 2017 Jan 1;63(1):21-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28225885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">34393687</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1569-1721</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+              <Day>06</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of economic inequality</Title>
+          <ISOAbbreviation>J Econ Inequal</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Did the UK policy response to Covid-19 protect household incomes?</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-26</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10888-021-09491-w</ELocationID>
+        <Abstract>
+          <AbstractText>We analyse the UK policy response to Covid-19 and its impact on household incomes in the UK in April and May 2020, using microsimulation methods. We estimate that households lost a substantial share of their net income of 6.9% on average. But policies protected household incomes to a substantial degree: compared to the drop in net income, GDP per capita fell by 18.9% between the first and second quarter of 2020. Earnings subsidies (the Coronavirus Job Retention Scheme) protected household finances and provided the main insurance mechanism during the crisis. Besides subsidies, Covid-related increases to state benefits, as well as the automatic stabilisers in the tax and benefit system, played an important role in mitigating the income losses. However, analysing the impact of a near-decade of austerity on the UK safety net, we find that, compared to 2011 policies, the 2020 <i>pre-Covid</i> tax-benefit policies would have been less effective in insuring incomes against the shocks. We also assess the potential distributional impact of introducing a Universal Basic Income (UBI) instead of the Covid emergency measures and find that a UBI would have supported the incomes of different vulnerable groups but would have provided less protection to those hit hardest by the labour market shocks.</AbstractText>
+          <AbstractText Label="Supplementary Information" NlmCategory="UNASSIGNED">The online version contains supplementary material available at 10.1007/s10888-021-09491-w.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Brewer</LastName>
+            <ForeName>Mike</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Resolution Foundation, 2 Queen Anne's Gate, London, SW1H 9AA UK.</Affiliation>
+              <Identifier Source="GRID">grid.499479.e</Identifier>
+              <Identifier Source="ISNI">0000 0001 0101 738X</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tasseva</LastName>
+            <ForeName>Iva Valentinova</ForeName>
+            <Initials>IV</Initials>
+            <Identifier Source="ORCID">0000-0003-3302-8918</Identifier>
+            <AffiliationInfo>
+              <Affiliation>London School of Economics and Political Science, Houghton Street, London, WC2A 2AE UK.</Affiliation>
+              <Identifier Source="GRID">grid.13063.37</Identifier>
+              <Identifier Source="ISNI">0000 0001 0789 5319</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Econ Inequal</MedlineTA>
+        <NlmUniqueID>101640088</NlmUniqueID>
+        <ISSNLinking>1569-1721</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Covid-19</Keyword>
+        <Keyword MajorTopicYN="N">Earnings subsidies and tax-benefit policies</Keyword>
+        <Keyword MajorTopicYN="N">Income distribution</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34393687</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10888-021-09491-w</ArticleId>
+        <ArticleId IdType="pii">9491</ArticleId>
+        <ArticleId IdType="pmc">PMC8345904</ArticleId>
+      </ArticleIdList>
+      <?pmcsd ?>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Policy Anal Manage. ;36(2):358-89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28378958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Public Econ. 2021 Jan;193:104334</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33223577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">34393685</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1559-3258</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>19</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <MedlineDate>2021 Jul-Sep</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>Dose-response : a publication of International Hormesis Society</Title>
+          <ISOAbbreviation>Dose Response</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Diallyl Disulfide Attenuates Ionizing Radiation-Induced Migration and Invasion by Suppressing Nrf2 Signaling in Non-small-Cell Lung Cancer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>15593258211033114</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/15593258211033114</ELocationID>
+        <Abstract>
+          <AbstractText>Non-small-cell lung cancer (NSCLC) is the leading cause of cancer-associated deaths. Radiotherapy remains the primary treatment method for NSCLC. Despite great advances in radiotherapy techniques and modalities, recurrence and resistance still limit therapeutic success, even low-dose ionizing radiation (IR) can induce the migration and invasion. Diallyl disulfide (DADS), a bioactive component extracted from garlic, exhibits a wide spectrum of biological activities including antitumor effects. However, the effect of DADS on IR-induced migration and invasion remains unclear. The present study reported that IR significantly promoted the migration and invasion of A549 cells. Pretreatment with 40 μM DADS enhanced the radiosensitivity of A549 cells and attenuated IR-induced migration and invasion. In addition, 40 μM DADS inhibited migration-related protein matrix metalloproteinase-2 and 9 (MMP-2/9) expression and suppressed IR-aggravated EMT by the upregulation of the epithelial marker, E-cadherin, and downregulation of the mesenchymal marker, N-cadherin, in A549 cells. Furthermore, DADS was found to inhibit the activation of Nrf2 signaling. Based on our previous results that knockdown of Nrf2 by siRNA suppressed IR-induced migration and invasion in A549 cells, we speculated that DADS attenuated IR-induced migration and invasion by suppressing the activation of Nrf2 signaling in A549 cells.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Shuai</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-2220-7243</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Zhaoqing Medical College, Zhaoqing, China.</Affiliation>
+              <Identifier Source="RINGGOLD">117835</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Hefa</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Nuclear Science and Technology, Lanzhou University, Lanzhou, China.</Affiliation>
+              <Identifier Source="RINGGOLD">12426</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Deping</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Biological &amp; Pharmaceutical Engineering, Lanzhou Jiaotong University, Lanzhou, China.</Affiliation>
+              <Identifier Source="RINGGOLD">12383</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xing</LastName>
+            <ForeName>Mengjie</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Biological &amp; Pharmaceutical Engineering, Lanzhou Jiaotong University, Lanzhou, China.</Affiliation>
+              <Identifier Source="RINGGOLD">12383</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Qiuyue</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Human Resources Office, Sichuan University, Chengdu, China.</Affiliation>
+              <Identifier Source="RINGGOLD">12530</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jianping</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Zhaoqing Medical College, Zhaoqing, China.</Affiliation>
+              <Identifier Source="RINGGOLD">117835</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Si</LastName>
+            <ForeName>Jing</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gan</LastName>
+            <ForeName>Lu</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mao</LastName>
+            <ForeName>Aihong</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Gansu Provincial Academic Institute for Medical Research, Lanzhou 730050, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Hong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Dose Response</MedlineTA>
+        <NlmUniqueID>101308899</NlmUniqueID>
+        <ISSNLinking>1559-3258</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Nrf2</Keyword>
+        <Keyword MajorTopicYN="N">diallyl disulfide</Keyword>
+        <Keyword MajorTopicYN="N">invasion</Keyword>
+        <Keyword MajorTopicYN="N">ionizing radiation</Keyword>
+        <Keyword MajorTopicYN="N">migration</Keyword>
+        <Keyword MajorTopicYN="N">non-small-cell lung cancer</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>03</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34393685</ArticleId>
+        <ArticleId IdType="doi">10.1177/15593258211033114</ArticleId>
+        <ArticleId IdType="pii">10.1177_15593258211033114</ArticleId>
+        <ArticleId IdType="pmc">PMC8351038</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Clin Exp Metastasis. 2018 Apr;35(4):223-236</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29159430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trop Biomed. 2008 Apr;25(1):37-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18600203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hum Genet. 2005 Apr;116(5):354-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15688187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2017 Mar 30;7:45624</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28358024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Clin Cancer Res. 2012 Aug 19;31:66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22901367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Cancer. 2009 Sep;9(9):655-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19693096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Oncol. 2016 Feb;48(2):765-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26691854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semin Cancer Biol. 2021 Aug;73:219-264</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33301861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mod Pathol. 2008 Sep;21(9):1130-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18567995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2019 Sep;8(Suppl 2):S153-S162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31673520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Mol Med. 2000 Sep 30;32(3):127-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11048643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Free Radic Biol Med. 2013 Dec;65:750-764</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23820265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncotarget. 2017 May 30;8(22):36603-36613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28402268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Rev Oncol Hematol. 2013 Jul;87(1):1-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23332547</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carcinogenesis. 2010 Oct;31(10):1833-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20513672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Res. 2008 Mar 1;68(5):1303-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18316592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncol Lett. 2017 May;13(5):3889-3895</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28521486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2021 May;71(3):209-249</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Onco Targets Ther. 2020 Apr 29;13:3619-3629</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32431513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ginekol Pol. 2006 Jan;77(1):63-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16736963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS Med. 2006 Oct;3(10):e420</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17020408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiat Res. 2017 Oct;188(4.2):525-538</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28753061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Mol Cell Biol. 2019 Feb;20(2):69-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30459476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Sci. 2019 Feb;110(2):686-696</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30561156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2011 Jul 06;475(7354):106-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21734707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2019 Sep;8(Suppl 2):S124-S134</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31673516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Invest. 2010 Jul;28(6):661-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20394501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuro Oncol. 2012 Nov;14(11):1367-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23074199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncol Rep. 2015 May;33(5):2484-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25812569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Environ Toxicol. 2013 Sep;28(9):479-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21695758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Transl Med. 2016 Apr 13;8(334):334ra51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27075625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Res. 2008 Oct 1;68(19):7975-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18829555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Cancer Res. 2021 Mar 15;27(6):1720-1733</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33323404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Sci. 2021 Jan 1;18(3):715-726</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33437206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncotarget. 2016 Mar 1;7(9):10498-512</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26871290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2019 Sep;8(Suppl 2):S192-S201</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31673524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mutagenesis. 2018 Apr 13;33(2):137-145</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29474635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Mol Life Sci. 2016 Aug;73(16):2999-3007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27022944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Food Funct. 2019 Jan 22;10(1):191-202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30516195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Nutr Food Res. 2015 Jun;59(6):1063-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25755089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancers (Basel). 2021 Apr 12;13(8):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33921237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mayo Clin Proc. 2008 May;83(5):584-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18452692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncotarget. 2017 Jul 11;8(28):45750-45758</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28501854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2018 Nov;68(6):394-424</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30207593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncogene. 2014 Mar 27;33(13):1649-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23624917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2010 Sep;2(3):154-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22263037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncol Rep. 2013 Feb;29(2):605-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23233092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Cycle. 2015;14(23):3725-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26505313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Biochem Sci. 2009 Apr;34(4):176-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19321346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toxicol In Vitro. 2010 Sep;24(6):1569-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20600798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Exp Metastasis. 2003;20(5):445-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14524534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">34393688</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1569-1721</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of economic inequality</Title>
+          <ISOAbbreviation>J Econ Inequal</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The fall in income inequality during COVID-19 in four European countries.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-19</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10888-021-09499-2</ELocationID>
+        <Abstract>
+          <AbstractText>We here use panel data from the COME-HERE survey to track income inequality during COVID-19 in France, Germany, Italy, and Spain. Relative inequality in equivalent household disposable income among individuals changed in a hump-shaped way between January 2020 and January 2021, with an initial rise from January to May 2020 being more than reversed by September 2020. Absolute inequality also fell over this period. Due to the pandemic some households lost more than others, and government compensation schemes were targeted towards the poorest, implying that on average income differences decreased. Generalized Lorenz domination reveals that these distributive changes reduced welfare in Italy.</AbstractText>
+          <AbstractText Label="Supplementary Information" NlmCategory="UNASSIGNED">The online version contains supplementary material available at 10.1007/s10888-021-09499-2.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Clark</LastName>
+            <ForeName>Andrew E</ForeName>
+            <Initials>AE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Paris School of Economics - CNRS, Paris, France.</Affiliation>
+              <Identifier Source="GRID">grid.424431.4</Identifier>
+              <Identifier Source="ISNI">0000 0004 5373 6791</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Ambrosio</LastName>
+            <ForeName>Conchita</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-8469-6126</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University of Luxembourg, Esch-sur-Alzette, Luxembourg.</Affiliation>
+              <Identifier Source="GRID">grid.16008.3f</Identifier>
+              <Identifier Source="ISNI">0000 0001 2295 9843</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lepinteur</LastName>
+            <ForeName>Anthony</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Luxembourg, Esch-sur-Alzette, Luxembourg.</Affiliation>
+              <Identifier Source="GRID">grid.16008.3f</Identifier>
+              <Identifier Source="ISNI">0000 0001 2295 9843</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Econ Inequal</MedlineTA>
+        <NlmUniqueID>101640088</NlmUniqueID>
+        <ISSNLinking>1569-1721</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">COME-HERE</Keyword>
+        <Keyword MajorTopicYN="N">COVID-19</Keyword>
+        <Keyword MajorTopicYN="N">Income inequality</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34393688</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10888-021-09499-2</ArticleId>
+        <ArticleId IdType="pii">9499</ArticleId>
+        <ArticleId IdType="pmc">PMC8349307</ArticleId>
+      </ArticleIdList>
+      <?pmcsd ?>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fisc Stud. 2020 Jun 17;:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32836540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Econ Rev. 2020 Oct;129:103564</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32836323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Public Econ. 2021 Jan;193:104346</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33281237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2020 Oct 7;15(10):e0239797</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33027272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Popul Econ. 2020 Sep 12;:1-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32952308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Public Econ. 2020 Nov;191:104272</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33518827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
